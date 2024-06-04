@@ -11,10 +11,10 @@ To prepare the data, categorical features were encoded using one-hot encoding, a
 ### Results:
 Using the tuned models, the performance of each classifier was evaluated. Below is a summary of the results:
 
-Before tuning my models:
+Before tuning the models:
 ![Screen Shot 2024-06-04 at 4 41 22 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/ab4d55a3-0a6e-4661-a9f9-0d4582410cf7)
 
-After tuning my models:
+After tuning the models:
 ![Screen Shot 2024-06-04 at 4 36 11 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/b8275e96-ab3d-44fb-8695-035d78f4109e)
 
 ### Visualizations
