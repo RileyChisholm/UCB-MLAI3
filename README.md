@@ -13,11 +13,13 @@ Using the tuned models, the performance of each classifier was evaluated. Below 
 
 Before tuning the models:
 
-![Screen Shot 2024-06-04 at 4 41 22 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/ab4d55a3-0a6e-4661-a9f9-0d4582410cf7)
+![Screen Shot 2024-06-04 at 5 02 51 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/b4929d23-226e-4579-9b0e-caafc697a97c)
+
 
 After tuning the models:
 
-![Screen Shot 2024-06-04 at 4 36 11 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/b8275e96-ab3d-44fb-8695-035d78f4109e)
+![Screen Shot 2024-06-04 at 5 03 11 PM](https://github.com/RileyChisholm/UCB-MLAI3/assets/161158181/04129ab1-6619-46dd-9cf9-c511f614504b)
+
 
 ### Visualizations
 
